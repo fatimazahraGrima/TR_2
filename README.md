@@ -33,6 +33,7 @@ Création des classes `Personne`, `Manager`, `Developpeur` dans le package `ma.p
 
 ### Interface IDao
  l'interface `IDao` dans le package `ma.projet.dao`.
+ 
 ![image](https://github.com/user-attachments/assets/1e8e7577-7a39-40ae-922c-70fcd758c537)
 
 ### Services
@@ -51,6 +52,7 @@ Création de la classe `Entreprise` dans le package `ma.projet.test` pour tester
 ![image](https://github.com/user-attachments/assets/c8a4b18b-d973-4817-bd90-17d12f2233ff)
  ![image](https://github.com/user-attachments/assets/74e46e0c-de2f-4d99-87ce-faea664c7b50)
 Pout le resultat final:
+
 ![image](https://github.com/user-attachments/assets/fd847f25-1e1e-41ed-9c4b-6f9290496e55)
 
 
